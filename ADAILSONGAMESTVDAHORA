@@ -1,0 +1,196 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="http://www.rafaelrms2010.xpg.com.br/pernalonga.jpg" group-title="☆INFANTIL☆",PERNALONGA
+#EXTINF:-1 tvg-logo="http://animation.ir/wp-content/uploads/2017/12/disney-characters-real-life-1-650x450.jpg" group-title="☆INFANTIL☆",TIMAO E PUMBA
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/ff1hef.jpg" group-title="INFORMAÇÕES DA LISTA",[COLOR gold]Atualização: 10/08/2018[/COLOR]
+http://7.83.4.42.7
+#EXTINF:0 tvg-logo="" group-title="☆INFANTIL☆",DISNEY JUNIOR
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/303.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-jkpcLJ-3eTI/WVa7qyaFr6I/AAAAAAAA8CY/xW2d7p2U7_QqG5slQqr5k5tmee7-CQTZgCLcBGAs/s640/Nick%2BJr.png" group-title="☆INFANTIL☆",NICK JR TEMP
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/260.m3u8
+#EXTINF:0 tvg-logo="http://i66.tinypic.com/2l9qu7a.jpg" group-title="☆INFANTIL☆",HE-MAN
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nickelodeon_logo_new.svg/300px-Nickelodeon_logo_new.svg.png" group-tilte="☆INFANTIL☆",Nickelodeon TEMP
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/259.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/375px-2014_Disney_Channel_logo.svg.png" group-title="☆INFANTIL☆",DISNEY CHANNEL TEMP
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/304.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Gloob_logo.png/230px-Gloob_logo.png" group-title="☆INFANTIL☆",GLOOB TEMP
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/285.m3u8
+#EXTINF:0 tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2016/10/recordlogo.png" group-title="CANAIS ABERTOS",RECORDTV
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w1068721152.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/300px-TruTV_2014.svg.png" group-title="CANAIS ABERTOS",TRUTV TEMP
+http://thebestbr.tk:80/live/silvanoiptv/1986/1223.ts
+#EXTINF:0 tvg-logo="" group-title="CANAIS DE JOGOS",FOX SPORTS
+http://tv.factoryiptv.com:80/live/josee/josee/37099.ts
+#EXTINF:0 tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="CANAIS ABERTOS",GLOBO
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/286.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/300px-GloboNews_logo.svg.png" group-title="CANAIS ABERTOS",GLOBO NEWS TEMP
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/289.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Discovery_kids_logo.png/200px-Discovery_kids_logo.png" group-title="☆INFANTIL☆",DISCOVERY KIDS TEMP
+http://212.8.250.12:25461/live/xavier/1234/250.m3u8
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-bandeirantes-tv.png" group-title="CANAIS ABERTOS",BAND
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/h9X4BqW23erf/327.m3u8
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1-599x599.png" group-title="CANAIS ABERTOS",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://mitvstatic.com/channels/br_record-news_m.png" group-tilte="CANAIS ABERTOS",RECORD NEWS
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/e13f4l.jpg" group-title="CANAIS ABERTOS",VIA MORENA
+https://5a8d73edc0407.streamlock.net/omdvia1str/viawebtv1/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/23sxj5d.jpg" group-title="CANAIS ABERTOS",REDE TV SD
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1052256248.m3u8
+#EXTINF:0 tvg-logo="http://i67.tinypic.com/29w05t3.jpg" group-title="CANAIS ABERTOS",IMPD
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1d/LOGO_REDETV%21.png/200px-LOGO_REDETV%21.png" group-title="CANAIS ABERTOS",REDE TV
+http://thebestbr.tk:80/live/silvanoiptv/1986/20901.ts
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo-599x519.png " group-title="CANAIS ABERTOS",TV CULTURA
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:0 tvg-logo="" group-title="☆INFANTIL☆",DISNEY XD
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/302.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-tilte="☆INFANTIL☆",BOOMERANG TEMP
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/322.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PFC.png" group-title="CANAIS DE JOGOS",PREMIERES CLUBES
+http://painel.iptvmove.com:80/live/aa/aa/9235.ts
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES",HISTORY HD
+http://tv.factoryiptv.com:80/live/daniel2/daniel2/37081.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/300px-Cartoon_Network_2010_logo.svg.png" group-title="☆INFANTIL☆",CARTOON NETWORK TEMP
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/319.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1b/Impd-logo.png/300px-Impd-logo.png" group-title="RELIGIOSOS",TV Igreja Mundial
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF: 0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w1107696553_b2128000_slpor.m3u8
+#EXTINF:0 tvg-logo="https://static-vix-com.cdn.ampproject.org/i/s/static.vix.com/pt/sites/default/files/styles/large/public/c/caverna-do-dragao-0916-1400x800.png" group-title="DESENHOS 24HRS",Carverna do Dagrão 24HRS
+http://thebestbr.tk:80/live/silvanoiptv/1986/22235.ts
+#EXTINF:0 tvg-logo="http://i67.tinypic.com/2z4ahoy.jpg" group-title="CANAIS ABERTOS",CINE+
+https://live.sba1.com/hls/cm/index.m3u8
+#EXTINF:0 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032012/bob_esponja_logotipo.png" group-title="DESENHOS 24HRS",Bob Esponja 24HRS
+http://tv.factoryiptv.com:80/live/daniel2/daniel2/37431.ts
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/2i9l0sz.jpg" group-title="FILMES HD",PLANETA DOS MACACOS
+http://network.vstreaming.net/movies/planetadosmacacosaguerra-leg-720p.mp4
+#EXTINF:0 tvg-logo="http://i65.tinypic.com/2i9l0sz.jpg" group-title="FILMES HD",PLANETA DOS MACACOS HD
+http://network.vstreaming.net/movies/planetamacacosaguerra-dub-1080p.mp4
+#EXTINF:0 tvg- logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WoodyWoodpecker-PantryPanic1.png/220px-WoodyWoodpecker-PantryPanic1.png" group-title="DESENHOS 24HRS",PICA PAU 24HRS
+http://painel.iptvmove.com:80/live/aa/aa/3495.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e6/The_Simpsons_promo.png/229px-The_Simpsons_promo.png" group-title="DESENHOS 24HRS",OS SIMPSONS 24HRS
+http://tv.factoryiptv.com:80/live/daniel2/daniel2/37438.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/GloobinhoLogo.png/250px-GloobinhoLogo.png" group-title="☆INFANTIL☆",Globinho TEMP
+http://painel.iptvmove.com:80/live/aa/aa/8331.ts
+#EXTINF:0 tvg-logo="http://remo3d.com.br/wp-content/uploads/2017/09/LOGO_TRAPA-300x220.jpg" group-title="COMÉDIA 24HRS",OS TRAPALHÕES
+http://tv.factoryiptv.com:80/live/daniel2/daniel2/37437.ts
+#EXTINF:0 tvg-logo="https://vizinhancadochaves-files-wordpress-com.cdn.ampproject.org/i/s/vizinhancadochaves.files.wordpress.com/2012/07/chaves-logotipo-novo-da-chamada-02-com-logo.png" group-title="COMÉDIA 24HRS",CHAVES
+http://tv.factoryiptv.com:80/live/daniel2/daniel2/39762.ts
+#EXTINF:0 tvg-logo="https://i2.wp.com/www.manuelleviana.com/wp-content/uploads/2015/07/destaque28.jpg" group-title="COMÉDIA 24HRS",Todo Mundo Odeia o Chris
+http://painel.iptvmove.com:80/live/aa/aa/3520.ts                        
+#EXTINF:0 tvg-logo="https://i.imgur.com/GpkdMMK.png" group-title="☆INFANTIL☆",Gospel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
+#EXTINF:0 tvg-logo="https://famososnaweb.com/wp-content/uploads/megapix.png" group-title="FILMES HD",MEGAPIX TEMP
+http://painel.iptvmove.com:80/live/aa/aa/1292.ts
+#EXTINF:0 tvg-logo="https://gfx.antyradio.pl/var/antyradio/storage/images/film/news/fox-zmniejszy-czas-trwania-reklam-do-2-minut-na-godzine-20931/1400160-1-pol-PL/Fox-chce-zmniejszyc-czas-trwania-reklam-w-telewizji-do-2-minut-na-godzine_article.jpg" group-title="FILMES HD",FOX TEMP
+http://painel.iptvmove.com:80/live/aa/aa/1318.ts
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Canal_Sony_2014.png" group-title="FILMES HD",SONY TEMP
+http://painel.iptvmove.com:80/live/aa/aa/1341.ts
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/Telecine_Pipoca_2005.png" group-title="FILMES HD",TELECINE PIPOCA TEMP
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/225.m3u8
+#EXTINF:0 tvg-logo="http://t.likeiptv.com/GLOBO.png" group-title="CANAIS ABERTOS",GLOBO SD
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/209.m3u8
+#EXTINF:0 tvg-logo="https://interactives.revolt.tv/summer-vibes/media/images/summer-vibes.png" group-title="MÚSICA",Summer Vibes
+https://www.djing.com/tv/session_summer-vibes.m3u8?
+#EXTINF:0 tvg-logo="https://egclassics.com/uploads/media/theme/EG-Logo-Block_350px.png" group-title="MÚSICA",Classics
+https://www.djing.com/tv/hits.m3u8?
+#EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/300px-Canal_Viva_2018_wordmark.svg.png" group-title="VARIEDADE",VIVA TEMP
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/1539.m3u8
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-aR26p2R9D_Q/UwPzNVJKZzI/AAAAAAABPA0/WJREq9HRr-U/s1600/animal+logo+1.jpg" group-title="DOCUMENTÁRIO",ANIMAL PLANET
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/332.m3u8                                  
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/66/Tooncast.png/225px-Tooncast.png" group-title="☆INFANTIL☆",Tooncast TEMP
+http://thebestbr.tk:80/live/silvanoiptv/1986/111.ts
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/xe213m.jpg" group-title="FILMES HD",PEXNTAOFL
+http://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/PEXNTAOFLM.mp4
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/m9na8p.jpg" group-title="FILMES HD",Os Supremos 2
+http://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/OSSPRMS2.mp4
+#EXTINF:0 tvg-logo="http://www.onlinenatv.com/img/ratimbum.png" group-title="☆INFANTIL☆",TV Ra-tim-bum TEMP
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/204.m3u8
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/5ohzm.jpg" group-title="☆INFANTIL☆",Pantera Cor De Rosa
+http://tv.factoryiptv.com:80/live/josee/josee/39576.ts
+#EXTINF:0 tvg-logo="http://www.pixelaria.org/media/upload/pixelart/88afff38ea8b37fe888d0fd67a438953.png" group-title="☆INFANTIL☆",Coragem O Cão Covarde
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTV.png" group-title="CANAIS DE JOGOS",SPORTV
+http://painel.iptvmove.com:80/live/aa/aa/1254.ts
+#EXTINF:0 tvg-logo="https://img00.deviantart.net/ac30/i/2009/291/9/c/mr_bean_by_peachysic.png" group-title="COMÉDIA 24HRS",Mr.Bean
+http://painel.iptvmove.com:8880/live/ttt/ttt/2647.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d1/Castelo_R%C3%A1-Tim-Bum_logo.png" group-title="CANAIS 24H",CASTELO RA-TIM-BUM
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/51/The_Flintstones.jpg/200px-The_Flintstones.jpg" gruop-title="☆INFANTIL☆",FLINSTSTONES
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bc/DesignBeCool.png/230px-DesignBeCool.png"" group-title="☆INFANTIL☆",SCOOBY DOO
+#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-I5fIJwaZhv0/ULI6XBzn2HI/AAAAAAAADgY/28UUW9h5JIU/s1600/171805.jpg" group-title="☆INFANTIL☆",CORRIDA MALUCA
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/47/Tom%26JerryShow2014.png/250px-Tom%26JerryShow2014.png" group-title="☆INFANTIL☆",TOM&JERRY
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/375px-AXN_logo_%282015%29.svg.png" group-title="FILMES HD",AXN SD
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/h9X4BqW23erf/330.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ec/Ben_10.png" group-Tetle="☆INFANTIL☆",BEN 10
+#EXTINF:0 tvg-logo="http://colorindonuvens.com/wp-content/uploads/2015/09/10-MotivosAssistirHoraAventura-ColorindoNuvens03.png" group-title="CANAIS 24H",HORA DA AVENTURA
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-h9jKcKesYyw/V5qirUjfUTI/AAAAAAAALrE/19n6G22K-HkKJ6JFD7ZWBCdp3sclJJ3agCLcB/s280/QF1nJLU.png" group-title="☆INFANTIL☆",SCOOBY DOO
+#EXTINF:0 tvg-logo="https://pre00.deviantart.net/7359/th/pre/i/2014/201/5/8/pinky_and_the_brain_by_calamitykangaroo-d7rl0q9.jpg" group-title="☆INFANTIL☆",PINKY E O CÉREBRO
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_combate.png" group-title="CANAIS DE JOGOS",COMBATE
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/314.m3u8
+#EXTINF:0 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="FILMES HD",CINE SKY
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-MTQ-yA_Pbm4/VrJwFBqhw5I/AAAAAAAAnVc/l0arJSmrCK4/s640/spacehd.png" group-title="FILMES HD",SPACE TEMP
+http://painel.iptvmove.com:80/live/aa/aa/1255.ts
+#EXTINF:0 tvg-logo="https://games-jogarjogosdabarbie-com.cdn.ampproject.org/ii/w680/games.jogarjogosdabarbie.com/wp-content/uploads/2015/04/casa-mickey-175.jpg" group-title="CANAIS 24H,CASA DO MICKEY
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/TC_Premium.png/250px-TC_Premium.png" group-title="FILMES HD",TELECINE PREMIUM TEMP
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/224.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TC_Fun.png/200px-TC_Fun.png" group-title="FILMES HD",TELECINE FUN TEMP
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/226.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/200px-Cinemax_LA.png" group-title="FILMES HD",CINEMAX TEMP
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/317.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Touch.png/250px-TC_Touch.png" group-title="FILMES HD",TELECINE TOUCH TEMP
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/223.m3u8
+#EXTINF:0 tvg-logo="" group-title="CANAIS DE JOGOS",ESPN
+http://painel.iptvmove.com:80/live/aa/aa/1322.ts
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-tO_X2jKJ30k/VdNEYm8BWqI/AAAAAAAAcBw/vyV0Cu_SBM8/s1600/Eimaxx-logo.png" group-title="CANAIS DE JOGOS",EI Maxx
+http://painel.iptvmove.com:80/live/aa/aa/2246.ts
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f1/TC_Actionnew.png" group-title="FILMES HD",TELECINE ACTION TEMP
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/228.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="FILMES HD",HBO PLUS TEMP
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/280.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png" group-title=VARIEDADES",OFF TEMP
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/257.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/56/FishTV_logo.png" group-title="VARIEDADES",FISH TV TEMP
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/295.m3u8
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/08/disc-20-600x507.png" group-title="DOCUMENTÁRIO",DISCOVERY CHANNEL TEMP
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/310.m3u8
+#EXTINF:0 tvg-logo="https://talkinpets.com/new/media/k2/items/cache/bbdcd49acc4ef5c8faebe21d3a8c9d84_L.jpg" group-title="DOCUMENTÁRIO",NATGEO KIDS
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/263.m3u8
+#EXTINF:0 tvg-logo=http://i66.tinypic.com/10z64nc.jpg"" group-title="CANAIS ABERTOS",GLOBOSAT
+http://painel.iptvmove.com:80/live/aa/aa/1297.ts
+#EXTINF:0 tvg-logo="http://1000logos.net/wp-content/uploads/2016/10/AE-logo-500x250.png" group-title="FILMES HD",A&E TEMP
+http://painel.iptvmove.com:80/live/aa/aa/1354.ts
+#EXTINF:0 tvg-logo="https://i1.wp.com/minilua.com/wp-content/uploads/2011/07/um_maluco_no_pedaco_thumb.jpg" group-title="FILMES HD",Um Maluco No Pedaço
+#EXTINF:0 tvg-logo="" group-title="FILMES HD",HBO 2
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/282.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="FILMES HD",HBO FAMILY TEMP
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/281.m3u8
+#EXTINF:0 tvg-logo="http://t.likeiptv.com/studio.png" group-title="FILMES HD",STUDIO UNIVERSAL TEMP
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/231.m3u8
+#EXTINF:0 tvg-logo="http://t.likeiptv.com/canalrural.png" group-title="CANAIS ABERTOS",CANAL RURAL
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/302457c.jpg" group-title="AVISO DE ADAILSON GAMES",AVISO DE LISTA OFF
+http://3.5.4.4.4
+#EXTINF:0 tvg-logo="https://imagizer.imageshack.com/v2/94x94q90/c/r/921/H05bJt.jpg" group-title="AVISO",ADAILSON GAMES
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/30nhcsw.jpg" group-title="CANAIS ABERTOS",SBT GO
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/30nhcsw.jpg" group-title="CANAIS ABERTOS",SBT MT
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/30nhcsw.jpg" group-title="CANAIS ABERTOS",SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/30nhcsw.jpg" group-title="CANAIS ABERTOS",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/n4e938.jpg" group-title="CANAIS ABERTOS",GLOBO RJ
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/287.m3u8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/n4e938.jpg" group-title="CANAIS ABERTOS",GLOBO SP
+http://cdn.iptvbr.tv:8080/live/educostainfor@gmail.com/90y68ghhdfbhdSD1/286.m3u8
+#EXTINF:0 tvg-logo="http://i64.tinypic.com/2heislw.jpg" group-title="CANAIS ABERTOS",TV DIARIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i67.tinypic.com/10e28vo.jpg" group-title="CANAIS ABERTOS",TV CULTURA GO
+http://painel.iptvmove.com:80/live/aa/aa/1233.ts
+#EXTINF:0 tvg-logo="http://i67.tinypic.com/10e28vo.jpg" group-title="CANAIS ABERTOS",TV CULTURA MG
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/inwxhc.jpg" group-title="CANAIS ABERTOS",REDE BRASIL
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i63.tinypic.com/zm1rwj.jpg" group-title="CANAIS ABERTOS",RECORD SP
+http://painel.iptvmove.com:80/live/aa/aa/9227.ts
+</div> 
